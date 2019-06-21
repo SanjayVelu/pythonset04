@@ -1,3 +1,3 @@
-ab=input()
-count=len(ab.split())
+word=input()
+count=len(word.split())
 print(count)
